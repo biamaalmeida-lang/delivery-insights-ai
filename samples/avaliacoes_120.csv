@@ -1,0 +1,121 @@
+﻿id_pedido,data_pedido,restaurante,tipo_culinaria,nota_1a5,comentario,prazo_estimado_min,tempo_entrega_min,atraso_min,valor_pedido_brl,frete_brl
+PED-0025,2026-10-16,Brasa do Pátio,Grelhados,5,O atendimento esclareceu minha dúvida rapidamente. O prato de costela com acompanhamentos chegou certinho.,30,29,0,55.36,5.99
+PED-0092,2026-10-24,Wok da Praça,Asiática,1,"Pedi o prato de frango agridoce sem cebola, mas veio com cebola mesmo com a observação registrada.",55,50,0,52.5,4.99
+PED-0027,2026-10-14,Brasa do Pátio,Grelhados,5,"Tudo chegou dentro do prazo, bem acondicionado. O prato de costela com acompanhamentos estava delicioso. Comparei com pedidos anteriores.",40,36,0,66.47,4.99
+PED-0047,2026-08-14,Verde no Prato,Saudável,4,O prato de salada com frango veio no ponto e com tempero equilibrado. Voltaria a pedir. O pedido chegou no trabalho.,40,41,1,60.77,4.99
+PED-0073,2026-09-26,Taco da Serra,Mexicana,2,O atendimento foi confuso quando tentei confirmar informações do prato de nachos com guacamole. A apresentação também contou na nota.,25,33,8,47.74,3.99
+PED-0102,2026-08-12,Panela Urbana,Brasileira,5,Já pedi outras vezes e o prato de feijoada individual manteve a qualidade. Comida caprichada.,40,30,0,39.58,7.99
+PED-0066,2026-10-24,Taco da Serra,Mexicana,5,O prato de tacos vegetarianos veio no ponto e com tempero equilibrado. Voltaria a pedir.,25,16,0,65.19,3.99
+PED-0086,2026-09-03,Wok da Praça,Asiática,5,Entrega pontual e embalagem fácil de abrir. O prato de arroz com cogumelos estava muito bom. A apresentação também contou na nota.,25,21,0,34.47,10.99
+PED-0119,2026-10-02,Panela Urbana,Brasileira,3,"O prato de strogonoff de frango veio completo, sem grandes destaques. Foi uma compra normal. Escolhi essa opção por recomendação.",25,30,5,22,5.99
+PED-0112,2026-10-20,Panela Urbana,Brasileira,1,A qualidade do prato de escondidinho de carne caiu bastante em relação ao meu último pedido. Pedi no horário do almoço.,30,37,7,22,5.99
+PED-0042,2026-09-03,Verde no Prato,Saudável,5,"Veio exatamente como pedi, incluindo a observação sem cebola. O prato de bowl de quinoa estava saboroso. Foi meu primeiro pedido aqui.",45,43,0,62.22,4.99
+PED-0006,2026-10-26,Cantina Aurora,Italiana,4,O atendimento esclareceu minha dúvida rapidamente. O prato de ravioli de queijo chegou certinho. O pedido chegou no trabalho.,25,27,2,79.42,0.0
+PED-0041,2026-08-16,Verde no Prato,Saudável,4,"Embalagem bem fechada, sem vazamentos. O prato de bowl de quinoa chegou com ótima apresentação. O pedido chegou no trabalho.",30,25,0,30.72,7.99
+PED-0075,2026-08-09,Taco da Serra,Mexicana,2,"A comida, especialmente o prato de tacos vegetarianos, estava boa, mas o atendimento foi demorado quando precisei tirar uma dúvida.",30,32,2,28.88,0.0
+PED-0094,2026-09-02,Wok da Praça,Asiática,4,"O prato de yakisoba de legumes estava muito gostoso, mas demorou bem mais que o prazo previsto. Vale pelo sabor, não pela pontualidade.",50,69,19,42.9,5.99
+PED-0028,2026-09-12,Brasa do Pátio,Grelhados,4,O prato de frango grelhado veio no ponto e com tempero equilibrado. Voltaria a pedir.,25,16,0,54.32,5.99
+PED-0070,2026-09-09,Taco da Serra,Mexicana,2,"O pedido chegou com o prato de burrito de frango, porém esqueceram o molho extra cobrado. Pedi no horário do almoço.",45,46,1,88.52,0.0
+PED-0098,2026-09-11,Wok da Praça,Asiática,3,"A refeição com yakisoba de legumes cumpriu o esperado, com porção regular e entrega sem problemas. A apresentação também contou na nota.",30,25,0,26.73,0.0
+PED-0085,2026-09-21,Wok da Praça,Asiática,5,O prato de frango agridoce veio no ponto e com tempero equilibrado. Voltaria a pedir. Era para uma refeição rápida.,30,31,1,84.57,0.0
+PED-0031,2026-08-08,Brasa do Pátio,Grelhados,1,"A etiqueta da sacola indicava meu nome, mas o conteúdo não era o prato de costela com acompanhamentos solicitado. Pedi no horário do almoço.",25,28,3,71.55,8.99
+PED-0107,2026-10-12,Panela Urbana,Brasileira,5,Gostei da combinação de sabores no prato de strogonoff de frango. Pedido organizado e entregue sem problemas. A refeição era para duas pessoas.,35,34,0,32.91,8.99
+PED-0026,2026-09-22,Brasa do Pátio,Grelhados,5,Já pedi outras vezes e o prato de prato de espetinhos manteve a qualidade. Comida caprichada.,30,33,3,50.65,10.99
+PED-0115,2026-10-17,Panela Urbana,Brasileira,3,"A comida, especialmente o prato de arroz com legumes e carne, estava boa, mas o atendimento foi demorado quando precisei tirar uma dúvida.",50,49,0,69.13,5.99
+PED-0077,2026-10-07,Taco da Serra,Mexicana,3,"A embalagem veio bem organizada, mas enviaram uma versão diferente do prato de quesadilla de queijo que escolhi.",35,35,0,22,3.99
+PED-0011,2026-08-18,Cantina Aurora,Italiana,2,Paguei caro pelo prato de lasanha de berinjela e a porção veio muito pequena para o valor. A apresentação também contou na nota.,50,43,0,52.1,4.99
+PED-0029,2026-09-26,Brasa do Pátio,Grelhados,2,O prato de frango grelhado estava salgado demais e com textura ruim. Não consegui terminar. Pedi no horário do almoço.,45,37,0,27.3,3.99
+PED-0046,2026-08-17,Verde no Prato,Saudável,5,"Tudo chegou dentro do prazo, bem acondicionado. O prato de salada com frango estava delicioso. Era para uma refeição rápida.",25,24,0,34.48,10.99
+PED-0078,2026-09-09,Taco da Serra,Mexicana,3,"O prato de burrito de frango veio completo, sem grandes destaques. Foi uma compra normal.",35,31,0,72.59,7.99
+PED-0003,2026-10-12,Cantina Aurora,Italiana,5,"Embalagem bem fechada, sem vazamentos. O prato de ravioli de queijo chegou com ótima apresentação.",55,55,0,32.28,7.99
+PED-0049,2026-10-01,Verde no Prato,Saudável,1,A embalagem do prato de bowl de quinoa veio aberta e parte do molho vazou na sacola.,35,30,0,59.93,8.99
+PED-0062,2026-09-18,Taco da Serra,Mexicana,4,Boa quantidade pelo valor cobrado. O prato de tacos vegetarianos veio quentinho e bem preparado. A apresentação também contou na nota.,40,38,0,59.86,7.99
+PED-0076,2026-09-21,Taco da Serra,Mexicana,4,"O prato de burrito de frango tinha sabor excelente, mas a embalagem vazou e fez muita sujeira. Era para uma refeição rápida.",25,23,0,80.95,4.99
+PED-0082,2026-08-19,Wok da Praça,Asiática,5,O atendimento esclareceu minha dúvida rapidamente. O prato de frango agridoce chegou certinho.,30,27,0,43.55,8.99
+PED-0072,2026-10-25,Taco da Serra,Mexicana,2,O recipiente do prato de tacos vegetarianos estava amassado e o conteúdo derramou durante a entrega. O pedido chegou no trabalho.,40,33,0,37.09,3.99
+PED-0084,2026-09-01,Wok da Praça,Asiática,5,"Tudo chegou dentro do prazo, bem acondicionado. O prato de yakisoba de legumes estava delicioso.",25,25,0,72.45,8.99
+PED-0083,2026-08-19,Wok da Praça,Asiática,5,Já pedi outras vezes e o prato de yakisoba de legumes manteve a qualidade. Comida caprichada.,40,44,4,63.5,8.99
+PED-0074,2026-09-26,Taco da Serra,Mexicana,2,"A entrega do prato de quesadilla de queijo foi rápida, mas achei a refeição seca e com pouco tempero.",45,45,0,86.24,7.99
+PED-0017,2026-10-26,Cantina Aurora,Italiana,3,"Gostei do tempero do prato de lasanha de berinjela, porém chegou frio. Seria ótimo se cuidassem melhor da temperatura.",25,21,0,78.1,0.0
+PED-0010,2026-09-12,Cantina Aurora,Italiana,1,O pedido de lasanha de berinjela veio sem a bebida que paguei. Fiquei sem uma parte da compra. Comparei com pedidos anteriores.,45,42,0,61.57,0.0
+PED-0015,2026-10-18,Cantina Aurora,Italiana,2,"O prato de lasanha de berinjela estava delicioso, só que faltou o acompanhamento que fazia parte do pedido.",40,40,0,67.52,5.99
+PED-0109,2026-08-20,Panela Urbana,Brasileira,2,A tampa não estava bem vedada e o prato de feijoada individual chegou espalhado dentro da sacola. Comparei com pedidos anteriores.,35,30,0,51.54,8.99
+PED-0069,2026-08-05,Taco da Serra,Mexicana,2,Solicitei o prato de burrito de frango sem molho e enviaram com molho. A instrução não foi seguida. Foi meu primeiro pedido aqui.,45,50,5,38.22,0.0
+PED-0007,2026-09-05,Cantina Aurora,Italiana,5,Já pedi outras vezes e o prato de nhoque ao sugo manteve a qualidade. Comida caprichada. Escolhi essa opção por recomendação.,25,20,0,70.33,4.99
+PED-0105,2026-10-25,Panela Urbana,Brasileira,5,Entrega pontual e embalagem fácil de abrir. O prato de arroz com legumes e carne estava muito bom. A apresentação também contou na nota.,55,52,0,36.56,10.99
+PED-0020,2026-08-24,Cantina Aurora,Italiana,3,"O prato de nhoque ao sugo estava dentro do padrão: nem excelente nem ruim, e chegou conforme a previsão.",40,35,0,30.4,8.99
+PED-0058,2026-10-02,Verde no Prato,Saudável,3,"O prato de salada de grão-de-bico estava dentro do padrão: nem excelente nem ruim, e chegou conforme a previsão. O pedido chegou no trabalho.",45,45,0,25.05,10.99
+PED-0013,2026-08-11,Cantina Aurora,Italiana,1,O atendimento foi confuso quando tentei confirmar informações do prato de espaguete à bolonhesa. Era para uma refeição rápida.,30,33,3,32.72,8.99
+PED-0065,2026-10-23,Taco da Serra,Mexicana,5,"Tudo chegou dentro do prazo, bem acondicionado. O prato de nachos com guacamole estava delicioso.",45,36,0,39.62,10.99
+PED-0106,2026-10-02,Panela Urbana,Brasileira,5,A porção do prato de arroz com legumes e carne foi generosa e o pedido veio completo. Recomendo.,55,55,0,32.74,0.0
+PED-0032,2026-08-28,Brasa do Pátio,Grelhados,1,Escrevi uma restrição de ingrediente para o prato de prato de espetinhos e não respeitaram o pedido. Comparei com pedidos anteriores.,35,38,3,56.17,4.99
+PED-0037,2026-10-23,Brasa do Pátio,Grelhados,2,"A embalagem veio bem organizada, mas enviaram uma versão diferente do prato de prato de espetinhos que escolhi. O pedido chegou no trabalho.",45,48,3,50.41,8.99
+PED-0103,2026-10-14,Panela Urbana,Brasileira,4,"Tudo chegou dentro do prazo, bem acondicionado. O prato de feijoada individual estava delicioso. O pedido chegou no trabalho.",30,28,0,60.98,5.99
+PED-0024,2026-08-22,Brasa do Pátio,Grelhados,5,Boa quantidade pelo valor cobrado. O prato de frango grelhado veio quentinho e bem preparado.,30,30,0,41.86,4.99
+PED-0059,2026-10-07,Verde no Prato,Saudável,3,"O prato de wrap de legumes veio completo, sem grandes destaques. Foi uma compra normal.",55,54,0,30.8,5.99
+PED-0002,2026-08-23,Cantina Aurora,Italiana,5,"Pedido entregue antes do previsto, e o prato de espaguete à bolonhesa estava ótimo. Experiência muito boa. Comparei com pedidos anteriores.",50,39,0,55.26,3.99
+PED-0045,2026-10-14,Verde no Prato,Saudável,5,Já pedi outras vezes e o prato de salada de grão-de-bico manteve a qualidade. Comida caprichada.,40,42,2,33.87,5.99
+PED-0052,2026-10-13,Verde no Prato,Saudável,1,Achei o prato de wrap de legumes muito seco e sem o sabor que esperava. O pedido chegou no trabalho.,30,37,7,38.99,10.99
+PED-0088,2026-09-28,Wok da Praça,Asiática,5,Gostei da combinação de sabores no prato de yakisoba de legumes. Pedido organizado e entregue sem problemas. Pedi no horário do almoço.,55,50,0,57.74,4.99
+PED-0056,2026-10-20,Verde no Prato,Saudável,4,"O prato de wrap de legumes estava muito bom, mas achei o valor elevado para o tamanho da porção.",45,45,0,22,0.0
+PED-0019,2026-10-25,Cantina Aurora,Italiana,3,"A refeição com lasanha de berinjela cumpriu o esperado, com porção regular e entrega sem problemas.",55,55,0,59.61,5.99
+PED-0087,2026-08-14,Wok da Praça,Asiática,5,A porção do prato de yakisoba de legumes foi generosa e o pedido veio completo. Recomendo.,40,43,3,48.21,10.99
+PED-0009,2026-10-14,Cantina Aurora,Italiana,2,Solicitei o prato de nhoque ao sugo sem molho e enviaram com molho. A instrução não foi seguida. Era para uma refeição rápida.,45,46,1,52.8,5.99
+PED-0048,2026-10-25,Verde no Prato,Saudável,5,Entrega pontual e embalagem fácil de abrir. O prato de wrap de legumes estava muito bom.,45,35,0,24.23,7.99
+PED-0095,2026-08-21,Wok da Praça,Asiática,3,"O prato de lámen de vegetais estava delicioso, só que faltou o acompanhamento que fazia parte do pedido.",50,47,0,22,5.99
+PED-0096,2026-08-20,Wok da Praça,Asiática,2,"O prato de arroz com cogumelos estava muito bom, mas achei o valor elevado para o tamanho da porção.",25,21,0,69.61,5.99
+PED-0081,2026-09-24,Wok da Praça,Asiática,5,Boa quantidade pelo valor cobrado. O prato de yakisoba de legumes veio quentinho e bem preparado. O pedido chegou no trabalho.,50,38,0,48.65,0.0
+PED-0067,2026-10-09,Taco da Serra,Mexicana,5,Entrega pontual e embalagem fácil de abrir. O prato de quesadilla de queijo estava muito bom. Era para uma refeição rápida.,45,40,0,63.19,3.99
+PED-0071,2026-09-10,Taco da Serra,Mexicana,2,O preço final do prato de quesadilla de queijo ficou acima do esperado e a experiência não justificou. Pedi no horário do almoço.,30,29,0,58.02,4.99
+PED-0090,2026-08-18,Wok da Praça,Asiática,1,O pedido de frango agridoce atrasou bastante e não recebi uma atualização clara da entrega. A refeição era para duas pessoas.,25,68,43,65.44,5.99
+PED-0033,2026-10-01,Brasa do Pátio,Grelhados,1,O pedido de frango grelhado veio sem a bebida que paguei. Fiquei sem uma parte da compra.,25,19,0,47.03,0.0
+PED-0063,2026-10-23,Taco da Serra,Mexicana,4,O atendimento esclareceu minha dúvida rapidamente. O prato de tacos vegetarianos chegou certinho. A refeição era para duas pessoas.,30,33,3,40.04,8.99
+PED-0016,2026-09-02,Cantina Aurora,Italiana,3,"O prato de ravioli de queijo estava muito bom, mas achei o valor elevado para o tamanho da porção. A apresentação também contou na nota.",45,40,0,80.13,7.99
+PED-0089,2026-09-04,Wok da Praça,Asiática,1,O prato de arroz com cogumelos estava salgado demais e com textura ruim. Não consegui terminar. Foi meu primeiro pedido aqui.,25,19,0,22,5.99
+PED-0114,2026-08-13,Panela Urbana,Brasileira,4,"A entrega do prato de feijoada individual foi rápida, mas achei a refeição seca e com pouco tempero. Era para uma refeição rápida.",40,46,6,22,10.99
+PED-0038,2026-09-27,Brasa do Pátio,Grelhados,3,"A refeição com costela com acompanhamentos cumpriu o esperado, com porção regular e entrega sem problemas. Era para uma refeição rápida.",55,55,0,61.24,0.0
+PED-0117,2026-09-26,Panela Urbana,Brasileira,3,"A embalagem veio bem organizada, mas enviaram uma versão diferente do prato de feijoada individual que escolhi.",55,52,0,47.52,7.99
+PED-0079,2026-08-03,Taco da Serra,Mexicana,3,"A refeição com burrito de frango cumpriu o esperado, com porção regular e entrega sem problemas. Escolhi essa opção por recomendação.",50,46,0,37.99,8.99
+PED-0012,2026-10-02,Cantina Aurora,Italiana,1,"O prato de ravioli de queijo veio em embalagem frágil, que se rompeu antes de eu abrir.",25,25,0,55.43,5.99
+PED-0064,2026-10-02,Taco da Serra,Mexicana,4,Já pedi outras vezes e o prato de burrito de frango manteve a qualidade. Comida caprichada.,55,42,0,39.98,3.99
+PED-0021,2026-08-12,Brasa do Pátio,Grelhados,5,"Pedido entregue antes do previsto, e o prato de frango grelhado estava ótimo. Experiência muito boa. A refeição era para duas pessoas.",30,17,0,50.06,10.99
+PED-0113,2026-09-06,Panela Urbana,Brasileira,1,Esperei muito mais que o estimado pelo prato de escondidinho de carne. A demora atrapalhou meu horário de almoço.,40,60,20,30.0,8.99
+PED-0044,2026-09-14,Verde no Prato,Saudável,5,O atendimento esclareceu minha dúvida rapidamente. O prato de salada de grão-de-bico chegou certinho. Foi meu primeiro pedido aqui.,55,52,0,27.05,5.99
+PED-0018,2026-09-21,Cantina Aurora,Italiana,3,"O prato de ravioli de queijo veio completo, sem grandes destaques. Foi uma compra normal.",30,37,7,87.92,10.99
+PED-0061,2026-09-28,Taco da Serra,Mexicana,4,"Veio exatamente como pedi, incluindo a observação sem cebola. O prato de tacos vegetarianos estava saboroso. Era para uma refeição rápida.",35,26,0,72.39,10.99
+PED-0101,2026-09-10,Panela Urbana,Brasileira,5,O atendimento esclareceu minha dúvida rapidamente. O prato de strogonoff de frango chegou certinho. A refeição era para duas pessoas.,55,58,3,65.2,8.99
+PED-0108,2026-09-23,Panela Urbana,Brasileira,4,O prato de strogonoff de frango chegou bem temperado e com ingredientes frescos. Gostei muito da refeição.,25,28,3,26.28,5.99
+PED-0043,2026-09-06,Verde no Prato,Saudável,4,Boa quantidade pelo valor cobrado. O prato de salada com frango veio quentinho e bem preparado.,30,18,0,46.99,4.99
+PED-0054,2026-08-21,Verde no Prato,Saudável,4,"O prato de salada com frango estava muito gostoso, mas demorou bem mais que o prazo previsto. Vale pelo sabor, não pela pontualidade. Pedi no horário do almoço.",35,56,21,41.59,10.99
+PED-0091,2026-10-20,Wok da Praça,Asiática,2,"A etiqueta da sacola indicava meu nome, mas o conteúdo não era o prato de lámen de vegetais solicitado. Pedi no horário do almoço.",40,40,0,44.32,0.0
+PED-0034,2026-08-10,Brasa do Pátio,Grelhados,3,"A entrega do prato de prato de espetinhos foi rápida, mas achei a refeição seca e com pouco tempero.",30,27,0,52.88,8.99
+PED-0030,2026-09-13,Brasa do Pátio,Grelhados,1,O pedido de prato de espetinhos atrasou bastante e não recebi uma atualização clara da entrega.,35,63,28,29.31,7.99
+PED-0035,2026-09-18,Brasa do Pátio,Grelhados,4,"A comida, especialmente o prato de carne com legumes, estava boa, mas o atendimento foi demorado quando precisei tirar uma dúvida. Pedi no horário do almoço.",45,45,0,61.58,5.99
+PED-0005,2026-10-05,Cantina Aurora,Italiana,4,Boa quantidade pelo valor cobrado. O prato de ravioli de queijo veio quentinho e bem preparado. Escolhi essa opção por recomendação.,30,32,2,53.49,10.99
+PED-0022,2026-09-28,Brasa do Pátio,Grelhados,5,"Embalagem bem fechada, sem vazamentos. O prato de prato de espetinhos chegou com ótima apresentação.",25,17,0,87.67,4.99
+PED-0050,2026-08-13,Verde no Prato,Saudável,2,"Tentei falar sobre um problema com o prato de salada com frango, mas não consegui retorno do atendimento.",30,33,3,31.08,7.99
+PED-0080,2026-10-26,Taco da Serra,Mexicana,3,"O prato de burrito de frango estava dentro do padrão: nem excelente nem ruim, e chegou conforme a previsão.",55,55,0,22,8.99
+PED-0060,2026-08-24,Verde no Prato,Saudável,3,"A refeição com wrap de legumes cumpriu o esperado, com porção regular e entrega sem problemas.",35,35,0,91.07,5.99
+PED-0004,2026-10-19,Cantina Aurora,Italiana,5,"Veio exatamente como pedi, incluindo a observação sem cebola. O prato de lasanha de berinjela estava saboroso.",25,21,0,49.6,7.99
+PED-0099,2026-08-25,Wok da Praça,Asiática,3,"O prato de arroz com cogumelos estava dentro do padrão: nem excelente nem ruim, e chegou conforme a previsão. A refeição era para duas pessoas.",55,55,0,32.57,3.99
+PED-0055,2026-09-07,Verde no Prato,Saudável,2,"O prato de salada de grão-de-bico estava delicioso, só que faltou o acompanhamento que fazia parte do pedido. Foi meu primeiro pedido aqui.",30,36,6,78.93,8.99
+PED-0116,2026-09-25,Panela Urbana,Brasileira,3,"O prato de arroz com legumes e carne tinha sabor excelente, mas a embalagem vazou e fez muita sujeira. Pedi no horário do almoço.",50,45,0,40.05,3.99
+PED-0100,2026-08-21,Wok da Praça,Asiática,3,"O prato de lámen de vegetais veio completo, sem grandes destaques. Foi uma compra normal.",30,37,7,67.17,4.99
+PED-0023,2026-08-10,Brasa do Pátio,Grelhados,5,"Veio exatamente como pedi, incluindo a observação sem cebola. O prato de costela com acompanhamentos estava saboroso.",25,28,3,67.05,0.0
+PED-0120,2026-09-12,Panela Urbana,Brasileira,3,"A refeição com arroz com legumes e carne cumpriu o esperado, com porção regular e entrega sem problemas.",40,40,0,27.88,5.99
+PED-0051,2026-10-22,Verde no Prato,Saudável,2,A comida chegou fria. Reaquecer o prato de salada com frango prejudicou a textura.,25,19,0,24.67,10.99
+PED-0040,2026-08-07,Brasa do Pátio,Grelhados,3,"O prato de prato de espetinhos veio completo, sem grandes destaques. Foi uma compra normal. Pedi no horário do almoço.",40,40,0,72.45,8.99
+PED-0104,2026-10-14,Panela Urbana,Brasileira,5,O prato de escondidinho de carne veio no ponto e com tempero equilibrado. Voltaria a pedir.,25,16,0,23.03,10.99
+PED-0118,2026-08-08,Panela Urbana,Brasileira,3,"O prato de strogonoff de frango estava dentro do padrão: nem excelente nem ruim, e chegou conforme a previsão. Era para uma refeição rápida.",40,37,0,35.69,8.99
+PED-0053,2026-09-13,Verde no Prato,Saudável,2,"O prato de bowl de quinoa foi entregue com atraso grande, apesar de o aplicativo indicar uma previsão menor. Era para uma refeição rápida.",40,73,33,61.19,3.99
+PED-0008,2026-09-09,Cantina Aurora,Italiana,4,"Tudo chegou dentro do prazo, bem acondicionado. O prato de nhoque ao sugo estava delicioso. A apresentação também contou na nota.",40,38,0,82.76,0.0
+PED-0111,2026-09-02,Panela Urbana,Brasileira,1,"O prato de escondidinho de carne estava com sabor razoável, mas chegou numa temperatura muito baixa.",25,28,3,53.33,0.0
+PED-0014,2026-09-12,Cantina Aurora,Italiana,3,"O prato de ravioli de queijo estava muito gostoso, mas demorou bem mais que o prazo previsto. Vale pelo sabor, não pela pontualidade. A refeição era para duas pessoas.",30,50,20,78.07,3.99
+PED-0036,2026-09-29,Brasa do Pátio,Grelhados,4,"O prato de carne com legumes tinha sabor excelente, mas a embalagem vazou e fez muita sujeira.",45,41,0,39.79,4.99
+PED-0110,2026-08-29,Panela Urbana,Brasileira,2,Houve uma dúvida sobre o pedido de strogonoff de frango e o suporte demorou muito para responder. A apresentação também contou na nota.,40,34,0,48.26,7.99
+PED-0093,2026-09-23,Wok da Praça,Asiática,2,"Faltou o acompanhamento anunciado com o prato de frango agridoce, embora estivesse na descrição.",45,44,0,70.09,4.99
+PED-0057,2026-08-27,Verde no Prato,Saudável,3,"Gostei do tempero do prato de bowl de quinoa, porém chegou frio. Seria ótimo se cuidassem melhor da temperatura. Comparei com pedidos anteriores.",50,48,0,29.58,8.99
+PED-0097,2026-08-26,Wok da Praça,Asiática,3,"Gostei do tempero do prato de arroz com cogumelos, porém chegou frio. Seria ótimo se cuidassem melhor da temperatura. A apresentação também contou na nota.",35,42,7,60.35,3.99
+PED-0001,2026-09-13,Cantina Aurora,Italiana,4,O prato de lasanha de berinjela chegou bem temperado e com ingredientes frescos. Gostei muito da refeição.,45,48,3,70.67,8.99
+PED-0068,2026-10-11,Taco da Serra,Mexicana,5,A porção do prato de burrito de frango foi generosa e o pedido veio completo. Recomendo.,25,18,0,59.38,3.99
+PED-0039,2026-08-28,Brasa do Pátio,Grelhados,3,"O prato de frango grelhado estava dentro do padrão: nem excelente nem ruim, e chegou conforme a previsão. Foi meu primeiro pedido aqui.",30,30,0,43.07,0.0

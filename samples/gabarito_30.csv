@@ -1,0 +1,31 @@
+﻿id_pedido,sentimento_referencia,problema_principal_referencia,problema_secundario_referencia,aspecto_positivo_referencia
+PED-0001,Positivo,Nenhum,Nenhum,Qualidade da comida
+PED-0021,Positivo,Nenhum,Nenhum,Prazo de entrega
+PED-0041,Positivo,Nenhum,Nenhum,Embalagem
+PED-0061,Positivo,Nenhum,Nenhum,Pedido correto
+PED-0081,Positivo,Nenhum,Nenhum,Custo-benefício
+PED-0101,Positivo,Nenhum,Nenhum,Atendimento
+PED-0005,Positivo,Nenhum,Nenhum,Custo-benefício
+PED-0027,Positivo,Nenhum,Nenhum,Prazo de entrega
+PED-0030,Negativo,Atraso na entrega,Nenhum,Nenhum
+PED-0051,Negativo,Temperatura inadequada,Nenhum,Nenhum
+PED-0012,Negativo,Embalagem danificada,Nenhum,Nenhum
+PED-0010,Negativo,Item faltando,Nenhum,Nenhum
+PED-0031,Negativo,Pedido incorreto,Nenhum,Nenhum
+PED-0029,Negativo,Qualidade da comida,Nenhum,Nenhum
+PED-0013,Negativo,Atendimento,Nenhum,Nenhum
+PED-0011,Negativo,Preço ou cobrança,Nenhum,Nenhum
+PED-0009,Negativo,Instrução não atendida,Nenhum,Nenhum
+PED-0049,Negativo,Embalagem danificada,Nenhum,Nenhum
+PED-0014,Misto,Atraso na entrega,Nenhum,Qualidade da comida
+PED-0016,Misto,Preço ou cobrança,Nenhum,Qualidade da comida
+PED-0035,Misto,Atendimento,Nenhum,Qualidade da comida
+PED-0054,Misto,Atraso na entrega,Nenhum,Qualidade da comida
+PED-0057,Misto,Temperatura inadequada,Nenhum,Qualidade da comida
+PED-0076,Misto,Embalagem danificada,Nenhum,Qualidade da comida
+PED-0095,Misto,Item faltando,Nenhum,Qualidade da comida
+PED-0115,Misto,Atendimento,Nenhum,Qualidade da comida
+PED-0018,Neutro,Nenhum,Nenhum,Nenhum
+PED-0039,Neutro,Nenhum,Nenhum,Nenhum
+PED-0060,Neutro,Nenhum,Nenhum,Nenhum
+PED-0098,Neutro,Nenhum,Nenhum,Nenhum
