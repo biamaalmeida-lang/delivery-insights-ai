@@ -18,8 +18,22 @@ st.set_page_config(page_title="Delivery Insights AI", page_icon="🍽️", layou
 st.markdown("""<style>
 .block-container {padding-top:1.5rem; max-width:1450px}
 h1 {font-weight:800 !important; letter-spacing:-.03em}
-div[data-testid="stMetric"] {background:#f2f7f9;border-radius:14px;padding:14px 18px}
-[data-testid="stSidebar"] {background:#f7fafb}
+div[data-testid="stMetric"] {
+    background: #192a3c;
+    border: 1px solid #34465c;
+    border-radius: 14px;
+    padding: 14px 18px;
+}
+
+div[data-testid="stMetric"] [data-testid="stMetricLabel"],
+div[data-testid="stMetric"] [data-testid="stMetricValue"] {
+    color: #ffffff !important;
+}
+
+[data-testid="stSidebar"] {
+    background: #111827;
+    color: #ffffff;
+}
 </style>""", unsafe_allow_html=True)
 
 st.title("🍽️ Delivery Insights AI")
